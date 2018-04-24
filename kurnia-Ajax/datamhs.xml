@@ -1,0 +1,37 @@
+<table>
+<tr> 
+	<td> Nama </td>
+	<td> NIM </td>
+	<td> Kelas </td>
+</tr>
+
+<tr>
+	<td> Farhan </td>
+	<td> 1755301018 </td>
+	<td> 1TIC </td>
+</tr>
+
+<tr>
+	<td> Avi </td>
+	<td> 1755301045  </td>
+	<td> 1TIC </td>
+</tr>
+
+<tr>
+	<td> Petrus </td>
+	<td> 1755301096 </td>
+	<td> 1TIC </td>
+</tr>
+
+<tr>
+	<td> Daniel </td>
+	<td> 1755301023 </td>
+	<td> 1TIC </td>
+</tr>
+
+<tr>
+	<td> Yuli </td>
+	<td> 1755301101 </td>
+	<td> 1TIC </td>
+</tr>
+</table>
